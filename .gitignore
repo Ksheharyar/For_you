@@ -1,0 +1,10 @@
+/Binaries/
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Large content folders
+/Content/Characters/
+/Content/FireworksWithSounds/
+/Content/StarterContent/
